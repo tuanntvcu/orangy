@@ -276,6 +276,7 @@
     "header": {
       "announcement": "Announcement",
       "menu": "Menu",
+      "shop_name": "Orangy",
       "cart_count": {
         "one": "{{ count }} item",
         "other": "{{ count }} items"
