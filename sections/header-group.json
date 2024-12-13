@@ -14,32 +14,24 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement_WyRFT3": {
-          "type": "announcement",
-          "settings": {
-            "text": "Welcome to our store",
-            "link": ""
-          }
-        },
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "78 Trung Kinh",
+            "text": "(+84) 12 34 5678",
             "link": ""
           }
         },
-        "announcement_Y6jfTU": {
+        "announcement_peJDFw": {
           "type": "announcement",
           "settings": {
-            "text": "Welcome to our store",
+            "text": "78 Trung Kinh, Yen Hoa, Cau Giay, Hanoi",
             "link": ""
           }
         }
       },
       "block_order": [
-        "announcement_WyRFT3",
         "announcement-bar-0",
-        "announcement_Y6jfTU"
+        "announcement_peJDFw"
       ],
       "settings": {
         "color_scheme": "",
