@@ -91,14 +91,14 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured products",
+        "title": "Our picks for you",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
         "collection": "all",
-        "products_to_show": 8,
-        "columns_desktop": 4,
+        "products_to_show": 9,
+        "columns_desktop": 6,
         "full_width": false,
         "show_view_all": false,
         "view_all_style": "solid",
