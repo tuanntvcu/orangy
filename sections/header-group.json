@@ -14,16 +14,32 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_WyRFT3": {
+          "type": "announcement",
+          "settings": {
+            "text": "Welcome to our store",
+            "link": ""
+          }
+        },
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
             "text": "78 Trung Kinh",
             "link": ""
           }
+        },
+        "announcement_Y6jfTU": {
+          "type": "announcement",
+          "settings": {
+            "text": "Welcome to our store",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "announcement_WyRFT3",
+        "announcement-bar-0",
+        "announcement_Y6jfTU"
       ],
       "settings": {
         "color_scheme": "",
