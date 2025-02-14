@@ -275,6 +275,10 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "pagefly-home": {
+      "type": "pagefly-home",
+      "settings": {}
     }
   },
   "order": [
@@ -286,6 +290,7 @@
     "multicolumn",
     "1739523749ad29bfb7",
     "1739527210e1419710",
-    "1739527250e73f9e8f"
+    "1739527250e73f9e8f",
+    "pagefly-home"
   ]
 }
