@@ -245,6 +245,21 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "1739527210e1419710": {
+      "type": "apps",
+      "blocks": {
+        "rocket_google_reviews_app_block_tceaGn": {
+          "type": "shopify://apps/rocket-google-reviews/blocks/app-block/d11c8893-a181-4aff-a280-7446d42cec3b",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "rocket_google_reviews_app_block_tceaGn"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -254,6 +269,7 @@
     "collage",
     "video",
     "multicolumn",
-    "1739523749ad29bfb7"
+    "1739523749ad29bfb7",
+    "1739527210e1419710"
   ]
 }
