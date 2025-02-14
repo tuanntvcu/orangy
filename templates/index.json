@@ -221,6 +221,30 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1739523749ad29bfb7": {
+      "type": "apps",
+      "blocks": {
+        "google_reviews_widgets_plus_review_list_widget_Nxkzrq": {
+          "type": "shopify://apps/google-reviews-widgets-plus/blocks/review_list_widget/f0459f06-fdf2-4198-b577-b68f9c8c907a",
+          "settings": {
+            "heading": "What our customers say",
+            "heading_margins": "0px",
+            "heading_hierachy": "h2",
+            "widget_type": "carousel",
+            "widget_theme": "light",
+            "review_limit": 8,
+            "minimum_rating": "0",
+            "sort_by": "review-date"
+          }
+        }
+      },
+      "block_order": [
+        "google_reviews_widgets_plus_review_list_widget_Nxkzrq"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -229,6 +253,7 @@
     "featured_collection",
     "collage",
     "video",
-    "multicolumn"
+    "multicolumn",
+    "1739523749ad29bfb7"
   ]
 }
