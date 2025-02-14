@@ -135,6 +135,17 @@
       }
     },
     "content_for_index": [],
+    "blocks": {
+      "1603754999335736578": {
+        "type": "shopify://apps/google-reviews-widgets-plus/blocks/floating_widget/f0459f06-fdf2-4198-b577-b68f9c8c907a",
+        "disabled": false,
+        "settings": {
+          "widget_type": "badge",
+          "widget_theme": "light",
+          "widget_position": "bottom-right"
+        }
+      }
+    },
     "color_schemes": {
       "scheme-1": {
         "settings": {
