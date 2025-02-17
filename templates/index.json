@@ -279,6 +279,23 @@
     "pagefly-home": {
       "type": "pagefly-home",
       "settings": {}
+    },
+    "17397684021fc2d9ac": {
+      "type": "apps",
+      "blocks": {
+        "powerful_form_builder_app_block_BTpwyT": {
+          "type": "shopify://apps/powerful-form-builder/blocks/app-block/e4bcb1eb-35b2-42e6-bc37-bfe0e1542c9d",
+          "settings": {
+            "shortcode": ""
+          }
+        }
+      },
+      "block_order": [
+        "powerful_form_builder_app_block_BTpwyT"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -291,6 +308,7 @@
     "1739523749ad29bfb7",
     "1739527210e1419710",
     "1739527250e73f9e8f",
-    "pagefly-home"
+    "pagefly-home",
+    "17397684021fc2d9ac"
   ]
 }
