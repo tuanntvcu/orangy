@@ -274,6 +274,11 @@
         "type": "shopify://apps/judge-me-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": false,
         "settings": {}
+      },
+      "8391292529476041804": {
+        "type": "shopify://apps/min-max-limits-by-limitsify/blocks/limitsify_default/17f09861-7fd3-44b8-af2c-d752652e61ec",
+        "disabled": false,
+        "settings": {}
       }
     },
     "color_schemes": {
