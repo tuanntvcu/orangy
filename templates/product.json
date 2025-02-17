@@ -233,6 +233,21 @@
       "settings": {
         "section_id": ""
       }
+    },
+    "17397737912fd93b0f": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_QqRFDL": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_QqRFDL"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -240,6 +255,7 @@
     "image-with-text",
     "multicolumn",
     "related-products",
-    "pagefly_section_mFV9F7"
+    "pagefly_section_mFV9F7",
+    "17397737912fd93b0f"
   ]
 }
