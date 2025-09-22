@@ -161,10 +161,6 @@
           "option_classic_flag_style": "square",
           "option_classic_currency_type": "none",
           "search_country": true,
-          "block_background": "#fff",
-          "style_colors_background": "#fff",
-          "style_colors_border": "#000",
-          "style_colors_text": "#000",
           "option_modal_continent": false,
           "option_flag_style": "square",
           "option_currency_type": "iso",
@@ -172,6 +168,10 @@
           "title": "Select Your Region",
           "language_title": "Preferred Language",
           "helper_text": "Changing language will not affect your selected region",
+          "block_background": "#fff",
+          "style_colors_background": "#fff",
+          "style_colors_border": "#000",
+          "style_colors_text": "#000",
           "block_alignement": "center"
         }
       },
@@ -277,6 +277,11 @@
       },
       "8391292529476041804": {
         "type": "shopify://apps/min-max-limits-by-limitsify/blocks/limitsify_default/17f09861-7fd3-44b8-af2c-d752652e61ec",
+        "disabled": false,
+        "settings": {}
+      },
+      "319724205969189013": {
+        "type": "shopify://apps/hulk-form-builder/blocks/app-embed/b6b8dd14-356b-4725-a4ed-77232212b3c3",
         "disabled": false,
         "settings": {}
       }
