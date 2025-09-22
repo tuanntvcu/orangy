@@ -3645,3 +3645,6 @@ details-disclosure>details {
     transform: translateX(100%) scaleX(0);
   }
 }
+.hulk-powered-wrapper {
+  display: none !important;
+}
